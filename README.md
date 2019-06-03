@@ -74,10 +74,12 @@ caixa "Command line arguments" especificar os argumentos desejados.
 O jogo começa por apresentar o menu principal, que deve conter as seguintes
 opções:
 
+```
 1. New game
 2. High scores
 3. Credits
 4. Quit
+```
 
 Caso o utilizador selecione as opções 2 ou 3, é mostrada a informação
 solicitada, após a qual o utilizador pressiona ENTER (ou qualquer tecla) para
