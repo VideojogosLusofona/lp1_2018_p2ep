@@ -47,6 +47,9 @@ Um exemplo de execução:
 dotnet run -- -r 10 -c 7 -d 3
 ```
 
+A primeira opção, `--`, serve para separar entre as opções do comando `dotnet`
+e as opções do programa a ser executado, neste caso o nosso jogo.
+
 As opções indicadas são obrigatórias e podem ser dadas em qualquer ordem, desde
 que o valor numérico suceda à opção propriamente dita. Se alguma das opções for
 omitida o programa deve terminar com uma mensagem de erro indicando o modo de
