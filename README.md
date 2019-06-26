@@ -880,7 +880,7 @@ O projeto deve ser entregue por **grupos de 1 a 3 alunos** via Moodle até às
 **23h de 7 de julho de 2019**. Deve ser submetido um ficheiro `zip` com os
 seguintes conteúdos:
 
-* Solução ou projeto Visual Studio com implementação do jogo.
+* Solução ou projeto .NET Core (console app) com implementação do jogo.
 * Pasta escondida `.git` com o repositório Git local do projeto.
 * Documentação HTML ou CHM gerada com [Doxygen], [Sandcastle] ou ferramenta
   similar \[[4][ref4]\].
