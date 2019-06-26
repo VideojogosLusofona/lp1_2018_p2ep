@@ -13,12 +13,12 @@ work. If not, see <http://creativecommons.org/licenses/by-nc-sa/4.0/>.
 ## Descrição do problema
 
 Os alunos devem implementar, em grupos de 1 a 3 elementos, um jogo _roguelike_
-em C# com níveis em grelha [gerados procedimentalmente](#procedural) e vários
-graus de dificuldade. O jogador começa no lado esquerdo da grelha (1ª coluna),
-e o seu objetivo é encontrar a saída do nível, que se encontra do lado direito
-dessa mesma grelha (última coluna). Pelo meio o jogador pode encontrar
-inimigos, encontrar itens (comida, armas, mapas), possivelmente apanhando-os, e
-cair em armadilhas.
+em C# (.NET Core console app) com níveis em grelha
+[gerados procedimentalmente](#procedural) e vários graus de dificuldade. O
+jogador começa no lado esquerdo da grelha (1ª coluna), e o seu objetivo é
+encontrar a saída do nível, que se encontra do lado direito dessa mesma
+grelha (última coluna). Pelo meio o jogador pode encontrar inimigos, encontrar
+itens (comida, armas, mapas), possivelmente apanhando-os, e cair em armadilhas.
 
 Os níveis vão ficando progressivamente mais difíceis, com mais inimigos, mais
 armadilhas e menos itens. O [_score_](#score) final do jogador depende do nível
